@@ -7,9 +7,4 @@ key.each_with_index do |item, index|
   ahash[item] = value[index]
 end 
 
-
 puts ahash
-
-
-
-
